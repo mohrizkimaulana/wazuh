@@ -1,6 +1,8 @@
 # Install Wazuh & ELK Stack (Elasticsearch, Logstash & Kibana)
 Wazuh SIEM with ELK Stack in Production Deployment mode to monitoring VPS
 
+Before install Wazuh & ELK Stack, you have to see this doc to know about requirements https://documentation.wazuh.com/current/installation-guide/requirements.html
+
 
 
 1. Clone the Wazuh repository to your system:
